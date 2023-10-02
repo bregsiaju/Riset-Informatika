@@ -7,7 +7,7 @@ Pencatatan penjualan masih dilakukan secara manual pada kertas yang dapat mengak
 
 ### Research Question
 - Apa saja teknik optimasi yang dapat diterapkan pada pengembangan website dengan pendekatan mobile-first design?
-- Sejauh mana penggunaan sistem otomatisasi dalam pengembangan website dapat meningkatkan kecepatan dan ketepatan pencatatan penjualan dibandingkan dengan metode manual?
+- Sejauh mana penggunaan optimasi sistem dalam pengembangan website dapat meningkatkan kecepatan dan ketepatan pencatatan penjualan dibandingkan dengan metode manual?
 - Bagaimana kinerja aplikasi saat diakses melalui berbagai perangkat, termasuk ponsel, tablet, dan desktop?
 
 ### Teori Terkait
