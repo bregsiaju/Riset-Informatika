@@ -1,6 +1,6 @@
 # Topik 1: Optimasi Website
 
-### Penerapan Teknik Optimasi pada Pengembangan Aplikasi Pencatatan Penjualan Berbasis Web dengan Pendekatan Mobile-First Design
+### Optimasi Pengembangan Aplikasi Pencatatan Penjualan Berbasis Web dengan Pendekatan Mobile-First Design dan PWA
 
 ### Persoalan Praktis
 Pencatatan penjualan masih dilakukan secara manual pada kertas yang dapat mengakibatkan berbagai permasalahan, seperti kesalahan perhitungan, kesulitan analisis data, kerugian privasi dan keamanan (dalam hal hilangnya catatan), dan kurangnya aksesibilitas dari jarak jauh.
