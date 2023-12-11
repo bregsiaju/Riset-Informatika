@@ -26,7 +26,8 @@
   
 - Metode Optimasi
   - Lazy Loading, yaitu untuk memuat gambar atau konten di bawah fold hanya ketika diperlukan, sehingga mengurangi beban halaman awal sehingga bisa mempercepat waktu muat halaman
-  - Manajemen Cache, menggunakan algoritma  LRU (Least Recently Used) atau FPRA (Fuzzy Page Replacement Algorithm)[^1]
- 
+  - Manajemen Cache, menggunakan algoritma  LFU (Least Frequently Used) atau FPRA (Fuzzy Page Replacement Algorithm)[^1]
 
+ 
+Reference:
 [^1]: [D. Akbari Bengar, A. Ebrahimnejad, H. Motameni, and M. Golsorkhtabaramiri, “A page replacement algorithm based on a fuzzy approach to improve cache memory performance,” Soft Comput., vol. 24, no. 2, pp. 955–963, 2020.](https://link.springer.com/article/10.1007/s00500-019-04624-w)
