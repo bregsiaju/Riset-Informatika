@@ -44,7 +44,7 @@ Dataset yang digunakan dalam penelitian ini adalah data suhu dan kelembapan yang
 
 
 ## Code Program
-Kode program dapat dilihat pada [tautan ini](/'/mini-riset-fix/program_monitoring.ino').
+Kode program dapat dilihat pada [tautan ini](https://github.com/bregsiaju/Riset-Informatika/blob/main/mini-riset-fix/program_monitoring.ino).
 
 
 ## Analisis (Metrik pengujian)
@@ -56,9 +56,9 @@ Selain itu, akan dilakukan pengujian kinerja program arduino, seperti:
 
 
 ## Gambar Pendukung
-- Rancangan Rangkaian Sistem ![Rancangan rangkaian sistem]('/mini-riset-fix/rancangan-sistem.png')
-- Implementasi Rangkaian ![Implementasi Rangkaian]('/mini-riset-fix/rangkaian-arduino.jpg')
-- Contoh Hasil Monitoring Melalui Aplikasi Blynk ![Hasil Monitoring]('/mini-riset-fix/display-blynk.jpg')
+- Rancangan Rangkaian Sistem ![Rancangan rangkaian sistem](https://github.com/bregsiaju/Riset-Informatika/blob/main/mini-riset-fix/rangkaian-sistem.png)
+- Implementasi Rangkaian ![Implementasi Rangkaian](https://github.com/bregsiaju/Riset-Informatika/blob/main/mini-riset-fix/rangkaian-arduino.jpg)
+- Contoh Hasil Monitoring Melalui Aplikasi Blynk ![Hasil Monitoring](https://github.com/bregsiaju/Riset-Informatika/blob/main/mini-riset-fix/display-blynk.jpg)
 
 
 ## Video Penerapan
