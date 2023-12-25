@@ -56,7 +56,7 @@ Selain itu, akan dilakukan pengujian kinerja program arduino, seperti:
 
 
 ## Gambar Pendukung
-- Rancangan Rangkaian Sistem ![Rancangan rangkaian sistem](https://github.com/bregsiaju/Riset-Informatika/blob/main/mini-riset-fix/rangkaian-sistem.png)
+- Rancangan Rangkaian Sistem ![Rancangan rangkaian sistem](https://github.com/bregsiaju/Riset-Informatika/blob/main/mini-riset-fix/rancangan-sistem.png)
 - Implementasi Rangkaian ![Implementasi Rangkaian](https://github.com/bregsiaju/Riset-Informatika/blob/main/mini-riset-fix/rangkaian-arduino.jpg)
 - Contoh Hasil Monitoring Melalui Aplikasi Blynk ![Hasil Monitoring](https://github.com/bregsiaju/Riset-Informatika/blob/main/mini-riset-fix/display-blynk.jpg)
 
